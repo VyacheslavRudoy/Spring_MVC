@@ -5,12 +5,16 @@
 <body>
 
 <h2>Dear Employee, you are welcome!!!</h2>
-
 <br>
 <br>
 <br>
 
-Your name: ${nameAttribute} ${description}
-
+Your name: ${employee.name}
+<br>
+Your surname: ${employee.surname}
+<br>
+Your salary: ${employee.salary}
+<br>
+Your department: ${employee.department}
 </body>
 </html>
