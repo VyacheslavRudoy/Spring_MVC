@@ -4,14 +4,14 @@
 
 <body>
 
-<h2>Уважаемый сотрудник, пожалуйста, заполните свои данные</h2>
+<h2>Dear employee, please fill in your details</h2>
 
 <br>
 <br>
 
 <form action="showDetails" method="get">
     <input type="text" name="employeeName"
-           placeholder="Введите ваше имя"/>
+           placeholder="Enter your name"/>
 
     <input type="submit">
 </form>

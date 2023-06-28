@@ -6,8 +6,8 @@
 </head>
 <body>
 
-<h2> Удачи в изучении Spring MVC !!!</h2>
-<a href="askDetails">Пожалуйста, укажите ваши данные</a>
+<h2> Good luck learning Spring MVC !!!</h2>
+<a href="askDetails">Please enter your details</a>
 
 </body>
 </html>
